@@ -14,12 +14,11 @@ export default class Navbar extends Component {
     }
   }
   render() {
-    console.log(this.props.auth.user )
     return (
       <nav className="navbar" role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
-            <img src="hexal-logo.png" width="112" height="28" alt="hexal logo" />
+            <img src="matrix4-logo.png" width="112" height="48" alt="Matrix4 logo" />
           </a>
         </div>
 

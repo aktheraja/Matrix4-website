@@ -1,4 +1,4 @@
-## Hexal Energy app
+## Matrix4 Energy
 
 This is a starter ReactJS UI for my 'Create a Serverless App' tutorial series.
 
